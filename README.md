@@ -34,5 +34,3 @@ What things you need to install the software and how to install them:
    git clone https://github.com/raghwendra200/realtime-fire-detection-yolov8.git
 
 
-   ![5-Figure5-1](https://github.com/Raghwendra200/Realtime_FireDetection_with-YOLO-V8/assets/168658417/9d6bde4a-81e4-489a-af8b-7e9babdaacee)
-
