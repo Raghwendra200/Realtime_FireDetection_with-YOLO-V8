@@ -25,7 +25,9 @@ What things you need to install the software and how to install them:
 - Python 3.8 or higher
 - PyTorch 1.8 or later
 - OpenCV
-- Other dependencies listed in `requirements.txt`
+- Ultralytics
+- YOLO V8n
+- Matplotlib
 
 ### Installation
 
